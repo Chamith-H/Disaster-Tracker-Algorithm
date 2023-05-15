@@ -86,7 +86,7 @@ class Data {
           Serial.println(beat);
 
           Serial.println("----------------------------");
-          Serial.println("");
+          Serial.println(" ");
         }
 };
 
